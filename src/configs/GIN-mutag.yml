@@ -1,0 +1,25 @@
+data_config:
+  splits:
+    train: 0.8
+    valid: 0.1
+    test: 0.1
+  batch_size: 128
+  mutag_x: true 
+
+model_config:
+  model_name: GIN
+  hidden_size: 64
+  n_layers: 2
+  dropout_p: 0.3
+  pretrain_lr: 1.0e-3
+  pretrain_epochs: 100
+
+shared_config:
+  learn_edge_att: false
+
+RayE_config:
+  method_name: 'RayE'
+  epochs: 100
+  lr: 1.0e-3
+  beta: 0.05
+  from_scratch: true
