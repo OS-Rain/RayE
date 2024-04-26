@@ -56,4 +56,4 @@ All settings can be found in `./src/configs`.
     - Put the raw data files in `./data/mutag/raw`.
 
 ## Notes
-Because RayE-Sub needs to precalculate the resistance distance, it may take a long time to process data when you first run it.# RayE
+Because RayE-Sub needs to precalculate the resistance distance, it may take a long time to process data when you first run it.
