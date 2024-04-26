@@ -1,5 +1,5 @@
 ## Introduction
-To help reviewers better understand our RayE-Sub, we provide source code and partial datasets. You can run our code by following the installation tips below. Since our work is still in the review phase, we sincerely hope that reviewers will not widely advertise our code. Thank you for your careful reviewing.
+Thank you for your careful reviewing. To help reviewers better understand our RayE-Sub, we provide source code and partial datasets. You can run our code by following the installation tips below.
 
 
 ## Installation
